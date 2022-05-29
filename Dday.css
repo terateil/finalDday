@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+
+#todoForm{
+    text-align: center;
+    border: 0.1rem solid;
+}
+#tod{
+    text-align: center;
+    border-bottom: 0.1rem solid;
+}
+
+#name{
+    font-size: x-large;
+}
+
+#datetime{
+    font-size: larger;
+}
+
+#details{
+    font-size: large;
+}
+
+.imp-high{
+    background-color: tomato;
+}
+
+.imp-medium{
+    background-color: khaki ;
+}
+
+.imp-low{
+    background-color: aquamarine;
+}
